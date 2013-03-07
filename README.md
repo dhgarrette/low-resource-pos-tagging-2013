@@ -2,7 +2,7 @@
 [Jason Baldridge]: http://www.jasonbaldridge.com
 
 
-# Low-Resouce Part-of-Speech Tagging
+# Low-Resource Part-of-Speech Tagging
 
 This is the code and data repository for the paper:
 
