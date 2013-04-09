@@ -1,0 +1,24 @@
+sbt start-script
+
+echo "#!/bin/bash" > run
+echo "" >> run
+echo "TARGET_FILE=\`basename \${BASH_SOURCE[0]}\`" >> run
+echo "" >> run
+echo "# Iterate down a (possible) chain of symlinks" >> run
+echo "while [ -L \"\$TARGET_FILE\" ]" >> run
+echo "do" >> run
+echo "    TARGET_FILE=\`readlink \$TARGET_FILE\`" >> run
+echo "    cd \`dirname \$TARGET_FILE\`" >> run
+echo "    TARGET_FILE=\`basename \$TARGET_FILE\`" >> run
+echo "done" >> run
+echo "" >> run
+echo "# Compute the canonicalized name by finding the physical path" >> run
+echo "# for the directory we're in and appending the target file." >> run
+echo "PHYS_DIR=\`pwd -P\`" >> run
+echo "PROJECT_DIR=\`dirname \$PHYS_DIR/\$TARGET_FILE\`" >> run
+echo "" >> run
+
+tail -n+3 target/start >> run
+
+chmod u+x run
+

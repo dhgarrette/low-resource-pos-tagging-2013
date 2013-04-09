@@ -1,0 +1,262 @@
+Ny|DT kaikitry|N-H ny|DT alika|N-H sy|CONJ ny|DT haromontana|N-H
+Ny|DT 29|CD septambra|N-H teo|ADJ no|FOC-H andro|N-H iraisam|ADJ-H @-@|@-@ pirenena|N natokana|V-H hoan'|P-H ny|DT haromontana|N-H
+.|.
+Aretina|N-H vokatry|N-H ny|DT kaikitry|N-H ny|DT alika|N-H amin'|P-H ny|DT ankapobeany|N-H ny|DT haromontana|N-H .|.
+Tsy|RB ny|DT alika|N-H ihany|ADV anefa|ADV-H no|FOC-H mety|ADJ-H ho|P-H romotra|ADJ-H fa|CONJ na|CONJ dia|CONJ ny|DT saka|N-H koa|ADV aza|CONJ dia|PCL afaka|MD-H mamindra|V-H izany|DT haromontana|N-H izany|DT .|.
+Tsara|ADJ-H ho|P-H marihina|V-H fa|C-H raha|C-H vao|ADV fantatra|ADJ-H fa|C-H romotra|ADJ-H ny|DT olona|N-H iray|ADJ dia|PCL tsy|NEG maintsy|ADV-H maty|ADJ-H .|.
+Mahafaty|V-H ny|DT haromontana|N-H ary|CONJ virus|N-H izy|PRO-H io|DT ka|CONJ tsy|NEG misy|V-H fanafodiny|N-H .|.
+Vakisiny|N-H no|FOC-H tokony|V-H hatao|V-H ary|CONJ tsy|NEG ny|DT olona|N-H no|FOC-H atao|V-H fanefitra|N-H mialoha|V-H fa|CONJ ny|DT alika|N-H .|.
+Inona|N-H àry|ADV-H ny|DT tokony|V-H hatao|V-H raha|C-H toa|V-H ka|C-H voakaikitry|V-H ny|DT alika|N-H ?|.
+Tsy|NEG vao|ADJ vokaikitra|V-H akory|ADV dia|PCL handeha|V-H hamonjy|V-H dokotera|N-H haingana|ADV-H na|CONJ ho|T any|ADV-H amin'|P-H ny|DT Institut|NNP-H Pasteur|N haingana|ADV-H na|CONJ dia|CONJ alina|ADJ-H aza|CONJ ny|DT andro|N-H .|.
+Afaka|MD-H miandry|V-H ny|DT ampitso|N-H tsara|ADV-H .|.
+Sasana|V-H tsara|ADV-H amin'|P-H ny|DT rano|N-H miaraka|V-H amin'|P-H ny|DT savony|N-H ny|DT ratra|N-H ,|,
+tsy|NEG mahataty|V-H savony|N-H manko|PCL ny|DT virus|N-H n'|P-H ny|DT haromontana|N-H .|.
+Raha|C-H amin'|P-H ny|DT antoandro|N-H dia|PCL avela|V-H ho|P-H taratry|N-H ny|DT hainandro|N-H ny|DT fery|N-H rehefa|P-H avy|PREP nosasana|V-H tamin'|P-H ny|DT ranon|N-H @-@|@-@ tsavony|N .|.
+Tsy|NEG mahatanty|V-H taratry|N-H ny|DT masoandro|N-H koa|ADV-H ny|DT virus|N-H n'|P-H ny|DT haromontana|N-H .|.
+Avy|P-H eo|N-H dia|PCL tsy|NEG maintsy|ADV mankeny|V-H amin'|P-H ny|DT Institut|NNP-H Pasteur|N raha|C-H eto|P-H Antananarivo|NNP-H ianao|PRO-H .|.
+Raha|C-H any|ADV-H ivelan'|P-H Antananarivo|NNP-H indray|ADV-H na|CONJ any|ADV-H amin'|P-H ny|DT faritra|N-H hafa|ADJ dia|PCL any|ADV-H amin'|P-H ny|DT tobim|N-H @-@|@-@ pahasalamana|N akaiky|P-H anao|PRO indrindra|ADV-H no|FOC-H manantona|V-H .|.
+Ny|DT dokotera|N-H na|CONJ ny|DT Institut|NNP-H pasteur|N indray|ADV-H no|FOC-H mandefa|V-H taratasy|N-H ho|P-H an'|PREP ny|DT veterinera|N-H mba|C-H ahafahany|V-H manaramaso|V-H ilay|DT alika|N-H na|CONJ romotra|ADJ-H ilay|DT izy|PRO-H na|CONJ tsia|NEG-H .|.
+Vazaha|N-H nahatratrarana|V-H grenady|N-H @:|@: Notanana|V-H am|P-H @-@|@-@ ponja|N eny|ADV-H Antanimora|NNP-H
+Natolotra|V-H ny|DT fampanoavana|N-H omaly|ADV-H ilay|DT vazaha|N-H antsoina|V-H hoe|C-H Mohamad|NNP-H Amad|N ,|, monina|V-H eny|ADV-H amin'|P-H ny|DT faritra|N-H manodidina|V-H an'|P-H i|DT Mandrosoa|NNP-H Ivato|N ,|, nahatratrarana|V-H grenady|N-H sy|CONJ basy|N-H roa|ADJ -LRB-|-LRB- 7,65|ADJ- mm|N-H ary|CONJ basim|N-H @-@|@-@ borona|N -RRB-|-RRB- .|.
+Notanana|V-H am|P-H @-@|@-@ ponja|N vonjy|N maika|ADV-H eny|ADV-H Antanimora|NNP-H ny|DT tenany|N-H taorian'|P-H ny|DT fandalovany|N-H teny|ADV-H anoloan'|P-H ny|DT mpitsara|N-H ,|, araka|P-H ny|DT vaovao|N-H azo|V-H teny|ADV-H an|P-H @-@|@-@ toerana|N .|.
+Fanohintohinana|N-H ny|DT filaminana|N-H anatin'|P-H ny|DT firenena|N-H no|FOC-H heloka|N-H nanenjehina|V-H ity|DT vahiny|N-H ity|DT tamin'|P-H izao|DT raharaha|N-H izao|DT .|.
+Ny|DT alatsinainy|N-H lasa|ADJ teo|ADJ no|FOC-H nanaovana|V-H fisavàna|N-H ny|DT trano|N-H fonenany|ADJ ka|CONJ nahitana|V-H ireto|DT fitaovam|N-H @-@|@-@ piadiana|N mahery|ADJ vaika|N ireto|DT .|.
+Dia|PCL mbola|ADV-H fitaovam|N-H @-@|@-@ piadiana|N hatrany|P-H ny|DT resaka|N-H eto|ADV-H .|.
+Maninona|ADV-H tokoa|ADV-H raha|C-H halalahana|N-H tahaka|P-H ny|DT any|ADV-H Etazonia|NNP-H amin'|P-H izay|C-H ny|DT fitazonana|N-H basy|N-H eto|ADV-H amintsika|P-H ,|, amin'|P-H izay|C-H mba|C-H afaka|MD-H miaro|V-H tena|N-H amin'|P-H ny|DT asa|N-H ratsin'|ADJ ireo|DT jiolahy|N-H ny|DT olona|N-H ?|.
+Ireo|DT jiolahy|N-H indray|ADV-H mantsy|ADV-H no|FOC-H arovana|V-H eto|ADV-H amintsika|P-H ,|, raha|C-H tsy|NEG hiresaka|V-H afa|MD-H @-@|@-@ tsy|NEG ny|DT ataon'|V-H ireo|DT vondrona|N-H milaza|V-H azy|PRO-H ho|P-H mpiaro|N-H ny|DT zon'|N-H olombelona|N-H .|.
+Toraka|P-H izany|PRO-H koa|ADV-H ity|DT teratany|ADJ vahiny|N-H nahatratrarana|V-H grenady|N-H ity|DT .|.
+Toa|MD-H mahafantatra|V-H olona|N-H ambony|P-H mantsy|P-H hono|N-H ny|DT tenany|N-H ;|.
+koa|CONJ maninona|ADV-H moa|C-H raha|C-H izany|DT olona|N-H ambony|P-H miaro|V-H azy|PRO-H izany|PRO-H indray|ADV-H no|FOC-H hatao|V-H fanadihadiana|N-H sy|CONJ hampidirina|N-H am|P-H @-@|@-@ ponja|N ?|.
+Lalaon'|N-H ny|DT Nosy|N-H
+@:|@:
+Efa|ADV-H miomana|V-H ny|DT taranja|N-H lomano|N-H
+Nihaona|V-H tamin'|P-H ny|DT minisitry|N-H ny|DT Fambolena|N-H ,|, Vyvato|NNP-H Rakotovao|N tetsy|ADV-H amin'|P-H ny|DT trano|N-H fiasany|N-H etsy|ADV-H Anosy|NNP-H ny|DT sabotsy|N-H maraina|N teo|ADJ ireo|DT atleta|N-H amin'|P-H ny|DT taranjam|N-H @-@|@-@ panatanjahantena|N lomano|N-H ,|, izay|C-H notarihin'|V-H ny|DT tale|N-H teknika|ADJ nasionalin'|ADJ ity|DT taranja|N-H ity|DT .|.
+Amin'|P-H ny|DT maha|ADJ @-@|@-@ minisitra|N mpiahy|N-H -LRB-|-LRB- coach|N -RRB-|-RRB- ny|DT minisitra|N-H VyVato|NNP-H Rakotovao|N an'|ADV-H ity|DT taranja|N-H ity|DT ,|, ho|P-H amin'|PREP ny|DT fikarakarana|N-H sy|CONJ fiomanana|N hiatrika|V-H ny|DT lalaon'|N-H ny|DT Nosy|N-H hatao|V-H atsy|ADV-H amin'|P-H ny|DT Nosy|N Seychelles|NNP-H ny|DT volana|N-H aogositra|NNP-H ho|P-H avy|PREP izao|PRO-H no|FOC-H nandraisany|V-H ireto|DT mpilalao|N-H ireto|DT .|.
+Tamin'|P-H izany|PRO-H àry|ADV-H no|FOC nanipihan'|V-H ny|DT minisitra|N-H Rakotovao|N Vyvato|NNP-H fa|C-H "@|"@ hanampy|V-H eo|ADV-H amin'|P-H ny|DT fanazaran|N-H @-@|@-@ tenan'|N ireo|DT mpilomano|N-H malagasy|ADJ ,|, izay|C-H hisolo|V-H tena|PRO-H an'|P-H i|DT Madagasikara|NNP-H amin'|P-H ny|DT lalaon'|N-H ny|DT Nosy|N-H hatao|V-H atsy|ADV-H amin'|P-H ny|DT Nosy|N Seychelles|NNP-H ny|DT ministeran'|N-H ny|DT Fambolena|N-H @"@|@"@ .|.
+Isan'|V-H ny|DT voatsipika|N-H tamin'|P-H io|DT fihaonana|N-H io|DT fa|C-H "@|"@ olana|N-H ho|P-H an'|PREP ireo|DT atleta|N-H ny|DT tsy|NEG fisian'|V-H ny|DT dobo|N-H filomanosana|N-H misy|V-H rano|N-H mafana|ADJ ,|, azon'|V-H izy|PRO-H ireo|DT hanaovana|V-H fanazarantena|N-H ,|, amin'|P-H izao|DT ririnina|N-H sy|CONJ iray|ADJ volana|N-H mialohan'|V-H ny|DT lalaon'|N-H ny|DT nosy|N-H izao|DT @"@|@"@ .|.
+Ny|DT dobo|N-H filomanosana|N-H eny|ADV-H amin'|P-H ny|DT akademiam|NNP-H @-@|@-@ pirenena|N momba|N ny|N fanatanjahantena|N na|CONJ "|" Ans|NNP-H "|" etsy|P-H Ampefiloha|NNP-H ihany|ADV-H aloha|P-H hatreto|ADV-H no|FOC-H misy|V-H rano|N-H mafana|ADJ ,|, azon'|V-H ireo|DT atleta|N-H malagasy|ADJ hanazaran|V-H @-@|@-@ tena|V .|.
+Ny|DT taona|N-H 2007|CD ,|, izany|PRO-H hoe|C-H nandritra|P-H ny|DT lalaon'|N-H ny|DT nosy|N-H andiany|N-H faha-7|ADJ izay|C-H natao|V-H teto|ADV-H amintsika|P-H ihany|ADV-H no|FOC-H nandeha|V-H farany|N-H ireo|DT milina|N-H manafana|V-H io|DT dobo|N-H filomanosana|N io|DT .|.
+Amin'|P-H izao|DT fotoana|N-H ,|, raha|C-H ny|DT fantatra|N-H dia|PCL tojo|V-H fahasahiranana|N-H ireo|DT mpilomano|N-H malagasy|ADJ ,|, handray|V-H anjara|N amin'|P-H ny|DT lalaon'|N-H ny|DT nosy|N-H ,|, noho|P-H io|DT olana|N-H io|DT .|.
+Amin'|P-H izao|DT iray|DT volana|N-H mahery|ADJ mialohan'|P-H ny|DT lalaon'|N-H ny|DT nosy|N-H andiany|N-H faha-8|ADJ izao|DT ,|, dia|PCL nisy|V-H avy|ADV-H hatrany|ADV-H ny|DT vahaolana|N-H avy|ADV-H amin'|P-H ny|DT minisiteran'|N-H ny|DT Fambolena|N-H ,|, izay|C-H nisafidy|V-H ny|DT hiahy|N-H ity|DT taranja|N-H ity|DT .|.
+Ny|DT fiatombohan'|N-H ny|DT volana|N may|N-H teo|ADJ no|FOC-H fantatra|V-H fa|C-H efa|ADV-H voasivana|V-H ireo|DT mpilomano|N-H 30|ADJ handrafitra|V-H ny|DT ekipa|N-H malagasy|ADJ eo|ADV-H amin'|P-H ny|DT taranja|N-H lomano|N-H .|.
+Noho|P-H io|DT olana|N-H eo|ADV-H amin'|P-H ny|DT lafin'|N-H ny|DT dobo|N-H filomanosana|N io|DT anefa|ADV-H dia|PCL tsy|NEG mbola|ADV-H misy|V-H hatramin'|P-H izao|PRO-H ny|DT fampivondronana|N-H nasionaly|ADJ ,|, fa|CONJ mbola|ADV-H rezionaly|ADJ-H hatrany|ADV-H izany|PRO-H .|.
+Eo|ADV-H amin'|P-H ny|DT fifaninanana|N-H ,|, eo|ADV-H amin'|P-H izay|DT lomano|N-H izay|DT ,|, dia|PCL fantatra|V-H fa|C-H ny|DT mpilomano|N-H avy|ADV-H atsy|ADV-H amin'|P-H ny|DT nosy|N-H La|N Reunion|NNP-H no|FOC-H fantatra|V-H fa|C-H atahorana|V-H indrindra|ADV-H aty|ADV-H amin'|P-H ny|DT ranomasimbe|N-H Indianina|ADJ .|.
+Fanisana|N-H faobe|ADJ fahatelon'|ADJ-H ny|DT mponina|N-H eto|PREP-H Madagasi|NNP-H
+Fanamby|N-H sy|CONJ fanantenana|N
+Ny|DT fahalalana|N-H ny|DT isan'|N-H ny|DT mponina|N-H tena|ADV-H izy|PRO-H no|FOC-H ahafantarana|V-H mialoha|V-H ny|DT fotodrafitrasa|N-H ilaina|ADJ -LRB-|-LRB- sekoly|N-H ,|, hopitaly|N ...|... -RRB-|-RRB- ary|CONJ ny|DT olona|N-H hiasa|V-H amin'|P-H izany|PRO-H fa|CONJ tsy|NEG tomba|V-H maso|N velively|ADV akory|ADV .|.
+Mampilaza|V-H ny|DT teknisianin'|N-H ny|DT Instat|N-H fa|C-H hatao|V-H amin'|PREP-H ity|DT taona|N-H 2011|CD ity|DT ny|DT fanisana|N-H ny|DT mponina|N-H sy|CONJ ny|DT fonenana|N-H .|.
+Fanisana|N-H faobe|ADJ fanintelony|ADJ-H raha|C-H ...|... Raha|C-H ho|MD vita|V-H .|.
+Efa|ADV-H tamin'|PREP-H ny|DT 2003|N-H no|FOC-H tokony|MD-H natao|V-H .|.
+Nihemotra|V-H hatrany|ADV-H anefa|ADV-H ny|DT fanapahan|N-H @-@|@-@ kevitra|N .|.
+Mba|PCL alaivo|V-H antsaina|ADV-H ny|DT mahazo|N-H anao|PRO-H mpamaky|N-H io|DT raha|C-H very|V-H 1|DT tapitrisa|N-H ianao|PRO-H .|.
+Sahirana|N-H .|.
+Mipenompenona|V-H .|.
+Mitabataba|V-H tahaka|P-H ny|DT "@|" sinoa|N-H very|V-H entana|N-H @"|" araka|P-H ny|DT fiteny|N-H efa|ADV-H tranainy|ADJ-H .|.
+Mba|PCL alaivo|V-H antsaina|ADV-H anie|PCL ny|DT mahazo|N-H ny|DT orinasa|N-H iray|DT raha|C-H diso|V-H kajy|N-H ny|DT mpitam|N-H @-@|@-@ bolany|N ka|CONJ niteraka|V-H fatiantoka|N-H 1|DT tapitrisa|N-H izany|PRO-H .|.
+Azo|V-H antsaina|ADJ-H fa|C-H ho|MD voasazy|V-H ilay|DT mpiandraikitra|N-H .|.
+Mety|ADJ-H tsy|NEG olona|N-H iray|DT io|DT fa|CONJ rafitra|N-H iray|DT manontolo|ADJ-H .|.
+Alaivo|V-H antsaina|V-H izay|C-H mitranga|V-H raha|C-H fiara|N-H 1|ADJ-H tapitrisa|ADJ-H isa|N-H no|FOC-H tonga|V-H eny|ADV-H Analakely|NNP-H -LRB-|-LRB- toerana|N-H ahitana|V-H fitohanana|N-H matetika|ADV-H -RRB-|-RRB- raha|C-H toa|MD-H ka|C-H an'|DT arivony|N-H no|FOC-H sahaza|ADJ-H ny|DT toerana|N-H .|.
+Embouteillage|N-H mahatsiravina|ADJ-H no|FOC-H hitranga|V-H .|.
+Tahaka|PREP-H izany|PRO-H koa|ADV-H no|FOC-H hita|V-H raha|C-H olona|N-H no|FOC-H diso|ADJ-H ny|DT fanisana|N-H azy|PRO ka|CONJ lasa|V-H be|ADJ-H loatra|ADV-H no|FOC-H tonga|V-H amina|P-H fanasana|N-H iray|DT .|.
+Tsy|NEG ampy|ADJ-H ny|DT sakafo|N-H .|.
+Miakatra|V-H ny|DT tosi|N-H @-@|@-@ dran'|N ireo|DT nanatrika|ADJ-H .|.
+Rotaka|N-H .|.
+Sakoroka|N-H .|.
+Kisary|N-H vitsivitsy|ADJ ireo|DT nosinganina|V-H ireo|DT hanehoana|V-H ny|DT maha|ADJ ratsy|N-H ny|DT fahadisoan'|N-H ny|DT fanisana|N-H .|.
+Zava|N-H @-@|@-@ dehibe|ADJ io|PRO-H .|.
+Omen|V-H @-@|@-@ drariny|N-H izany|PRO-H ireo|DT mpiasan'|N-H ny|DT Instat|NNP-H ,|, Institut|NNP-H national|N de|N la|N statistique|N ,|, manao|V-H letrezana|N-H hiroso|V-H hanisa|V-H ny|DT mponina|N-H amin'|P-H ity|DT taona|N-H 2011|CD ity|DT .|.
+Araka|P-H ny|DT nambaran'|N-H ny|DT tomponandraikitry|N-H ny|DT Instat|NNP-H dia|PCL ny|DT tapaky|N-H ny|DT 2011|N-H ity|DT no|FOC-H vinavinaina|V-H hanomboka|V-H ny|DT fanisana|N-H faobe|ADJ ny|DT mponina|N-H sy|CONJ ny|DT fonenana|N-H -LRB-|-LRB- Recensement|NNP-H général|N de|N la|N population|N et|N de|N l'|N habitat|N -RRB-|-RRB- .|.
+Vinavina|N-H io|PRO-H .|.
+Efa|ADV-H hatramin'|P-H ny|DT taona|N-H 2003|CD no|FOC-H novinavinaina|V-H hatao|V-H io|DT fanisana|N-H io|DT -LRB-|-LRB- didim|NNP-H @-@|@-@ panjakana|N 2003|N @-@|@-@ 1124|N tamin'|P-H ny|DT 9|CD desambra|N-H 2003|CD et|CONJ fanapahana|NNP-H 5294/2004|N tamin'|P-H ny|DT 13|CD aogositra|N-H 2004|CD -RRB-|-RRB- .|.
+Nihemotra|V-H hatrany|ADV-H .|.
+Raha|C-H tanteraka|V-H kosa|ADV-H io|DT fanisana|N-H io|DT dia|PCL io|PRO-H no|FOC-H fanisana|N-H fahatelo|ADJ natao|V-H hatramin'|P-H ny|DT nahazoana|N-H ny|DT fahaleovantena|N-H .|.
+Ny|DT taona|N-H 1975|CD no|FOC-H voalohany|ADJ-H .|.
+Tokony|MD-H isaky|N-H ny|DT 10|ADJ taona|N-H nefa|ADV-H no|FOC-H hanaovana|V-H ny|DT fanisana|N-H mba|C-H ho|P-H azo|V-H antoka|N-H ny|DT vokatra|N-H .|.
+Eo|ADV-H anelanelan'|P-H ny|DT fanisana|N-H faobe|ADJ roa|ADJ-H mifanesy|ADJ-H dia|PCL kajy|N-H no|FOC-H miasa|V-H -LRB-|-LRB- sondage|N-H -RRB-|-RRB- .|.
+Efa|ADV-H tokony|MD-H ho|C-H efatra|ADJ-H izany|DT ny|DT fanisana|N-H vita|V-H teto|P-H Madagasikara|NNP-H raha|C-H ny|DT fenitry|N-H ny|DT teknisianina|N-H -LRB-|-LRB- statisticien|N-H -RRB-|-RRB- no|FOC-H arahina|V-H .|.
+Izao|ADV-H anefa|ADV-H vao|ADV-H roa|ADJ-H no|FOC-H tontosa|V-H .|.
+Ny|DT azo|V-H marihina|V-H dia|PCL mifanandrify|V-H amin'|P-H ny|DT fivoahana|N-H amin'|P-H ny|DT krizy|N-H ireo|DT fanisana|N-H ny|DT mponina|N-H efa|ADV-H vita|ADJ-H -LRB-|-LRB- 1975|N-H sy|CONJ 1993|N-H -RRB-|-RRB- .|.
+Ankehitriny|ADV-H mbola|ADV-H tsy|NEG mifarana|V-H ny|DT fikaroham|N-H @-@|@-@ bahaolana|N hivoahana|V-H amin'|P-H ny|DT krizy|N-H .|.
+Ho|MD zava|N-H @-@|@-@ dehibe|ADJ ho|P-H an'|PREP ny|DT mpitantana|N-H "@|" vonjimaika|ADJ @"|" ny|DT firenena|N-H ve|C-H ny|DT fanisana|N-H ?|.
+Efa|ADV-H ao|ADV-H anatin'|P-H ny|DT tetibola|N-H ve|C-H izy|PRO-H io|DT ?|.
+Mety|ADJ-H ve|C-H ny|DT fanisam|N-H @-@|@-@ bahoaka|N ao|ADV-H anatin'|P-H ny|DT fanomanana|N-H ny|DT fifidianana|N-H ?|.
+Milaza|V-H ny|DT teknisianina|N-H iray|ADJ fa|C-H io|PRO-H no|FOC-H ho|MD olana|N-H ahiana|V-H hifangaro|V-H ny|DT mpanisa|N-H sy|CONJ ny|DT mpanao|N-H propagandy|N-H .|.
+Eo|ADV-H amin'|P-H ny|DT 1|ADJ dolara|N-H isaky|N-H ny|DT olona|N-H iray|ADJ no|FOC-H ilaina|V-H raha|C-H hiroso|V-H hanao|V-H ny|DT fanisam|N-H @-@|@-@ bahoaka|N ny|DT firenena|N-H iray|ADJ .|.
+Tafakatra|V-H maherin'|ADJ-H ny|DT 20|ADJ-H tapitrisa|ADJ-H dolara|N-H any|ADV-H izany|N-H no|FOC-H ilain'|V-H ny|DT mpitondra|N-H fanjakana|N-H satria|CONJ tombanana|V-H efa|ADV-H manakaiky|V-H ny|DT 21|ADJ tapitrisa|N-H ny|DT isan'|N-H ny|DT mponina|N-H eto|P-H Madagasikara|NNP-H ankehitriny|ADV-H .|.
+Mila|V-H ny|DT fanampian'|N-H ny|DT mpamatsy|N-H vola|N-H izany|DT i|DT Madagasikara|NNP-H .|.
+Efa|ADV-H nanome|V-H toky|N-H ireo|DT mpamatsy|N-H vola|N-H amin'|P-H ny|DT fanisana|N-H mponina|N-H tahaka|P-H izao|PRO-H fa|C-H hanome|V-H ny|DT fanampiany|N-H izy|PRO-H ireo|PRO-H raha|C-H ...|... Raha|C-H misy|V-H ilay|DT "@|" reconnaissance|N-H @"@|" .|.
+Io|PRO-H no|FOC-H hitoloman'|V-H ny|DT mpanao|N-H politika|N-H ankehitriny|ADV-H .|.
+Na|CONJ milaza|V-H aza|CONJ ny|DT mpanatanteraka|N-H fa|C-H afaka|MD-H nivelona|V-H tsy|NEG niankin|V-H @-@|@-@ doha|N tamin'|P-H ny|DT hafa|N-H i|DT Madagasikara|NNP-H dia|PCL tsy|NEG afaka|MD-H nivalampatra|V-H tamin'|P-H ny|DT fanatanterahana|N-H ny|DT fandaharanasa|N-H sy|CONJ tetikasany|N-H ny|DT fanjakana|N-H .|.
+Milaza|V-H ny|DT Instat|NNP-H fa|C-H hatao|V-H amin'|P-H ity|DT 2011|N-H ity|DT ny|DT fanisam|N-H @-@|@-@ bahoaka|N .|.
+Eo|ADV-H ampiandrasana|V-H ny|DT fanatontosana|N-H izany|DT dia|PCL mionona|V-H amin'|P-H ny|DT fanombanana|N-H ny|DT isa|N-H ataon'|V-H ny|DT teknisianina|N-H ny|DT fanjakana|N-H .|.
+Koa|ADV-H tsy|NEG tokony|MD-H hahagaga|V-H raha|C-H diso|ADJ-H ny|DT kajy|N-H maromaro|ADJ hatao|V-H eto|ADV-H amin'|P-H ny|DT firenena|N-H .|.
+Tsy|NEG ampy|ADJ-H ny|DT trano|N-H fanonenana|ADJ .|.
+Tsy|NEG ampy|ADJ-H ny|DT sekoly|N-H ...|...
+Tsy|NEG vita|ADJ-H anefa|ADV-H io|DT fanisana|N-H io|DT raha|C-H tsy|NEG eo|ADV-H ny|DT reconnaissance|N-H internationale|ADJ !|.
+Dia|PCL ho|MD-H sanatria|ADV-H ve|C-H ho|MD-H tonga|V-H amin'|P-H ny|DT fitenim|N-H @-@|@-@ bahoaka|N hoe|C-H "@|" Andraso|V-H eo|ADV-H Paoly|N-H hametaka|V-H lakaoly|N-H ?|.
+@"|"
+Mamaky|V-H boky|N-H ny|DT mpianatra|N-H .|.
+Mangatsiaka|ADJ-H izy|PRO-H .|.
+Nahita|V-H ny|DT mpianatra|N-H ny|DT vehivavy|N-H .|.
+Nividy|V-H ny|DT vary|N-H ho|PREP-H an'|ADV-H ny|DT ankizy|N-H ny|DT vehivavy|N-H .|.
+Novidin'|V-H ny|DT vehivavy|N-H ho|P-H an'|ADV-H ny|DT ankizy|N-H ny|DT vary|N-H .|.
+Nividianan'|V-H ny|DT vehivavy|N-H ny|DT vary|N-H ny|DT ankizy|N-H .|.
+Mihinana|V-H vary|N-H aho|PRO-H .|.
+Misotro|V-H rano|N-H ianao|PRO-H .|.
+Tia|V-H dite|N-H izy|PRO-H .|.
+Tsy|NEG mihinana|V-H vary|N-H aho|PRO-H .|.
+Tsy|NEG miteny|V-H malagasy|N-H aho|PRO-H .|.
+Nividy|V-H ronono|N-H ho|P-H an'|ADV-H ny|DT zaza|N-H ny|DT vehivavy|N-H .|.
+Antsoy|V-H ny|DT polisy|N-H !|.
+Malagasy|N-H ve|PCL ianao|PRO-H ?|.
+Nifandaka|V-H Rabe|NNP-H sy|CONJ Rakoto|N .|.
+Mijaly|V-H Rabe|NNP-H .|.
+Manome|V-H vola|N-H an|N @-@|@-@ dRabe|NNP-H Rakoto|NNP-H .|.
+Mipetraka|V-H akaikin|P-H @-@|@-@ dRabe|NNP-H Ranaivo|NNP-H .|.
+Mifampipetraka|V-H akaikin|ADV-H Rabe|NNP-H sy|CONJ Ranaivo|N .|.
+Nampifandaka|V-H an|N @-@|@-@ dRabe|NNP-H sy|CONJ Rakoto|N-H aho|PRO-H .|.
+Tokony|MD-H hijery|V-H ny|DT toe|N-H @-@|@-@ batany|N ny|DT olona|N-H mananika|V-H ny|DT 40|ADJ-H taona|N-H
+Tafa|N-H tamin'|P-H ny|DT dokotera|N-H Rakotorahalahy|N Mamy|NNP-H -LRB-|-LRB- Dr|N RM|NNP-H -RRB-|-RRB- ,|, lehibeny|N-H sampan|N-H @-@|@-@ draharahan'|N ny|DT vonjy|N-H aina|N-H sy|CONJ fameloman'|N-H aina|N-H ,|, ao|ADV-H amin'|P-H ny|DT Hopitaly|NNP-H Joseph|N Ravoahangy|N Andrianavalona|N ,|, Antananarivo|NNP-H .|.
+Lakroan'|NNP-H i|DT Madagasikara|N
+:|:
+Sokajin'|N-H olona|N-H toa|MD-H inona|N-H no|FOC-H tratry|ADJ-H ny|DT fahatapahan'|N-H ny|DT lalan|N-H @-@|@-@ drà|N ?|.
+Dr|N RM|NNP-H
+:|:
+Ny|DT olona|N-H monina|V-H an|P-H @-@|@-@ tanan|N-H @-@|@-@ dehibe|ADJ matetika|ADV-H no|FOC-H iharany|V-H ,|,
+sakafo|N-H miditra|V-H amin'|P-H ny|DT vatana|N-H no|FOC-H tena|ADV-H mahatonga|V-H ny|DT tosi|N-H @-@|@-@ drà|N hiakatra|V-H .|.
+Nitombo|V-H ny|DT tanora|N-H tapaka|N-H lalan|N-H @-@|@-@ drà|N manatona|V-H anay|PRO ,|, fa|CONJ amin'|P-H ny|DT ankapobeny|N-H mitombo|V-H isan|N-H @-@|@-@ taona|N ny|DT olona|N-H tratry|ADJ-H ny|DT aretina|N-H .|.
+Nahitana|V-H olona|N-H tapaka|N-H lalan|N-H @-@|@-@ drà|N eo|ADV-H amin'|P-H ny|DT iolona|N-H iray|ADJ isan'|N-H andro|N-H tato|ADV-H amin'|P-H ny|DT Hopitaly|NNP-H Joseph|N Ravoahangy|N Andrianavalona|N ny|DT taona|N-H 2009|CD .|.
+Lakroa|N-H
+:|:
+Zakan'|V-H ny|DT olona|N-H rehetra|ADJ ve|C-H ny|DT saran'|N-H ny|DT fitsaboana|N-H ?|.
+Dr|N RM|NNP-H
+:|:
+Lafo|ADJ-H ny|DT fitsaboana|N-H ny|DT olona|N-H tratry|ADJ-H ny|DT fahatapahan'|N-H ny|DT lalan|N-H @-@|@-@ drà|N na|CONJ misy|V-H aza|CONJ ny|DT fanafody|N-H .|.
+Lakroa|NNP-H
+:|:
+Betsaka|N-H no|FOC-H manao|V-H dokotera|N-H tena|ADV-H ny|DT antony|N-H ?|.
+Dr|N RM|NNP-H
+:|:
+Ny|DT honohono|N-H no|FOC-H mahatonga|V-H ny|DT resabe|N-H eny|ADV-H anivon'|P-H ny|DT fiaraha|N-H @-@|@-@ monina|N ka|CONJ mahatonga|V-H ny|DT olona|N-H hitsapatsapa|V-H fahatany|ADV-H ,|, satria|CONJ samy|N-H te|MD-H ho|P-H dadany|N-H avokoa|N .|.
+Mety|ADJ-H hampidi|V-H @-@|@-@ doza|N-H anefa|ADV-H izany|PRO-H .|.
+Lakroa|NNP-H
+:|:
+Misy|V-H ifandraisany|N-H amin'|P-H ny|DT fahantrana|N-H ve|C-H ny|DT fahatapahan'|N-H ny|DT lalan|N-H @-@|@-@ drà|N ?|.
+Dr|N RM|NNP-H
+:|:
+Hita|N-H sy|CONJ tsapa|N fa|C-H arakaraky|ADV-H ny|DT mahasahirana|ADJ-H ny|DT olona|N-H no|FOC-H vao|ADV-H mainka|ADV-H hidorohany|V-H zava|N-H @-@|@-@ mahadomelina|ADJ izay|C-H singa|ADV-H mahatonga|V-H ny|DT fiakaran'|N-H ny|DT tosi|N-H @-@|@-@ drà|N haingana|ADJ-H ka|CONJ tsy|NEG mahagaga|V-H raha|C-H iharan'|V-H ny|DT fahatapahan'|N-H ny|DT lalan|N-H @-@|@-@ drà|N ilay|DT olona|N-H .|.
+Lakroa|NNP-H
+:|:
+Inona|N-H ny|DT hafatra|N-H ,|, dokotera|N-H ?|.
+Dr|N RM|NNP-H
+:|:
+Ny|DT fahasalamana|N-H no|FOC-H voalohan|N-H @-@|@-@ karena|N .|.
+Tokony|MD-H hijery|V-H ny|DT toe|N-H @-@|@-@ batany|N ny|DT olona|N-H efa|ADV-H mananika|V-H ny|DT 40|ADJ-H taona|N-H ,|,
+tsy|NEG midika|V-H akory|ADV izany|N-H fa|C-H atao|V-H tsirambina|N-H ny|DT an'|N-H ny|DT hafa|N-H
+.|.
+Lalàna|N-H momba|P-H ny|DT fananan|N-H @-@|@-@ tany|N @:|@:
+Miezaka|V-H mampahafantatra|V-H izany|PRO-H any|ADV-H ifotony|V-H ny|DT ministera|N-H
+Fampafantarana|N-H ny|DT lalàna|N-H mifehy|V-H ny|DT fananan|N-H @-@|@-@ tany|N sy|CONJ fampitoviana|N-H ny|DT fomba|N-H fijery|N-H eo|ADV-H amin'|P-H ireo|DT sampan|N-H @-@|@-@ draharaham|N @-@|@-@ panjakana|N rehetra|ADJ momba|P-H ny|DT fananan|N-H @-@|@-@ tany|N sy|CONJ ny|DT sampan|N-H @-@|@-@ draharaha|N eo|ADV-H anivon'|P-H ny|DT kaominina|N-H misahana|V-H ny|DT fananan|N-H @-@|@-@ tany|N na|CONJ ny|DT birao|NNP-H ifoton'|N ny|N fananan|N @-@|@-@ tany|N -LRB-|-LRB- Bif|NNP-H -RRB-|-RRB- .|.
+Ireo|PRO-H no|FOC-H vontoatin'|N-H ny|DT atrikasa|N-H lehibe|ADJ eo|ADV-H anivon'|P-H ny|DT distrik'|N-H Anjozorobe|NNP-H iarahan'|V-H ireo|DT-H rehetra|ADJ misahana|V-H izay|DT fananan|N-H @-@|@-@ tany|N izay|DT ,|, ka|CONJ ahitana|V-H ny|DT-H eo|ADV anivon'|P-H ny|DT fitsarana|N-H ,|, ny|DT Bianco|NNP-H ,|, ny|DT mpitandro|N-H ny|DT filaminana|N-H ,|, ireo|DT ben'|ADJ-H ny|DT tanàna|N-H sy|CONJ mpanolo|N-H @-@|@-@ tsaina|N kaominaly|ADJ rehetra|ADJ ao|ADV-H anatin'|P-H ny|DT distrika|N-H ,|, ary|CONJ ireo|DT-H avy|ADV amin'|P-H ny|DT sampan|N-H @-@|@-@ draharaham|N @-@|@-@ panjakana|N misahana|V-H ny|DT fananan|N-H @-@|@-@ tany|N sy|CONJ ny|DT-H avy|ADV amin'|P-H ny|DT birao|NNP-H ifoton'|N ny|N fananan|N @-@|@-@ tany|N .|.
+Ny|DT fandaharanasam|N-H @-@|@-@ pirenena|N momba|P-H ny|DT fananan|N-H @-@|@-@ tany|N na|CONJ "@|"@ programme|NNP-H national|N foncier|N "|" -LRB-|-LRB- PNF|N -RRB-|-RRB- sy|CONJ ny|DT sampan|N-H @-@|@-@ draharaha|N misahana|V-H ny|DT fanavaozana|N-H eo|ADV-H anivon'|P-H ny|DT ministeran'|NNP-H ny|N Fanajariana|N ny|N tany|N sy|N ny|N Fitsinjaram|N @-@|@-@ pahefana|N no|FOC-H tompon'|N-H andraikitra|N-H amin'|P-H ity|DT atrikasa|N-H ity|DT izay|C-H nanomboka|V-H omaly|ADV-H talata|NNP-H 5|CD jolay|NNP-H ary|CONJ hifarana|V-H anio|ADV-H .|.
+Ho|P-H an'|PREP ny|DT faritra|N Analamanga|NNP-H dia|PCL efa|ADV-H nahavitana|V-H ny|DT atrikasa|N-H toy|P-H izao|PRO-H ny|DT-H any|ADV amin'|P-H ny|DT distrikan'|N-H Ankazobe|NNP-H sy|CONJ ny|DT ampahany|N-H amin'|P-H Ambohidratrimo|NNP-H .|.
+Araka|P-H ny|DT fantatra|N-H dia|PCL mbola|ADV-H sakana|N-H lehibe|ADJ tsy|NEG mahatomombana|V-H ny|DT asa|N-H eo|ADV-H anivon'|P-H ny|DT BIF|NNP-H ohatra|N-H ny|DT tsy|NEG fahafantarana|V-H ny|DT lalàna|N-H mifehy|V-H ny|DT fananan|N-H @-@|@-@ tany|N sy|CONJ ny|DT andraikitra|N-H voafaritr'|V-H izay|PRO-H .|.
+Misy|V-H rahateo|ADV-H ny|DT lalàna|N-H vaovao|ADJ momba|P-H ny|DT fananan|N-H @-@|@-@ tany|N ,|, ary|CONJ ilaina|V-H ny|DT fampahafantarana|N-H izany|PRO-H any|ADV-H ifotony|V-H .|.
+Ho|P-H an'|PREP ny|DT distrikan'|N-H Anjozorobe|NNP-H manokana|ADJ dia|PCL birao|N-H ifotony|V-H momba|P-H ny|DT fananan|N-H @-@|@-@ tany|N miisa|V-H 11|CD-H amin'|P-H ny|DT kaominina|N-H 18|ADJ no|FOC-H efa|ADV-H misy|V-H any|ADV-H an|P-H @-@|@-@ toerana|N-H .|.
+Ny|DT enina|ADJ-H amin'|P-H ireo|PRO-H amin'|P-H izao|DT fotoana|N-H izao|DT no|FOC-H efa|ADV-H mihodina|V-H tsara|ADV-H .|.
+Mbola|ADV-H olana|V-H any|ADV-H amin'|P-H ny|DT distrikan'|N-H Anjozorobe|NNP-H iny|PRO-H ny|DT momba|P-H ireo|DT tany|N-H tsy|NEG vita|ADJ-H kadasitra|N-H hatramin'|P-H ny|DT farany|N-H tany|N-H aloha|P-H tany|N-H ,|, miandry|V-H ny|DT famitana|N-H izany|PRO-H ireo|DT vahoaka|N-H voakasin'|V-H izany|PRO-H ,|, izay|C-H tsy|NEG azon'|V-H ny|DT BIF|NNP-H hatao|V-H aloha|P-H hatreto|ADV-H ny|DT manome|N-H karatany|N-H ho|P-H an'|PREP ireo|DT tany|N-H ireo|DT .|.
+Kaominina|N-H 13|ADJ no|FOC-H ahitana|V-H io|DT toe|N-H @-@|@-@ javatra|N io|DT .|.
+Heverina|V-H araka|P-H izany|PRO-H fa|C-H hitondra|V-H vahaolana|N-H eo|ADV-H amin'|P-H ny|DT olan'|N-H ny|DT fananan|N-H @-@|@-@ tany|N izao|DT atrikasa|N-H ifarimbonan'|V-H ireo|DT mpisehatra|N-H rehetra|ADJ momba|P-H ny|DT fananan|N-H @-@|@-@ tany|N izao|DT .|.
+Mitohy|V-H hatrany|ADV-H ihany|ADV-H koa|ADV-H ny|DT fampafantarana|N-H ifotony|V-H izay|C-H sahanin'|V-H ny|DT PNF|NNP-H ny|DT lalàna|N-H mifehy|V-H ny|DT fananan|N-H @-@|@-@ tany|N sy|CONJ ny|DT fifampitoviam|N-H @-@|@-@ pijery|N eo|ADV-H amin'|P-H ireo|DT mpisehatra|N-H rehetra|ADJ izay|DT .|.
+Malezia|N :|: ady|N amin'|PREP ny|DT dengy|N sy|CONJ ny|DT tsikongonia|N
+Vokatry|N ny|DT fitomboan'|N ny|DT olona|N mararin'|ADJ ny|DT dengy|N dia|PCL manao|V fanentanana|N amin'|PREP ny|DT ady|N amin'|PREP ity|DT aretina|N ity|DT ny|DT fanjakana|N Maleziana|ADJ .|.
+Araka|PREP ny|DT fantatra|V tamin'|PREP ny|DT volana|N lasa|ADJ dia|PCL nahatratra|V 4|ADJ 521|ADJ no|FOC isan'|N ny|DT olona|N narariny|V ary|CONJ 13|ADJ no|FOC matiny|ADJ .|.
+Mampatahotra|V ny|DT fiakaran'|N isan'|N ireo|DT mararin'|V ny|DT dengy|N .|.
+Tamin'|PREP ny|DT taon|N @-@|@-@ dasa|ADJ dia|PCL nahatratra|V 49|ADJ 335|ADJ ny|DT isan'|N ny|DT olona|N narary|V ary|CONJ 112|ADJ no|T maty|ADJ -|@-@ ny|DT ratsy|ADJ indrindra|ADV tamin'|PREP ny|DT tantaran'|N ny|DT firenena|N .|.
+Ankoatra|PREP ny|DT dengy|N dia|PCL misy|V otrikaretina|N hafa|ADJ koa|ADV miparitaka|V any|ADV amin'|PREP ny|DT fanjakana|N maro|ADJ any|ADV Malezia|N any|ADV dia|PCL ny|DT tsikongonia|N .|.
+Manoratra|V mikasika|V ity|DT viriosy|N kely|ADJ tsy|NEG fantatra|V ity|DT i|DT Doctor2008|N :|:
+“|" Ity|PRO no|FOC aretina|N fantatra|V farany|ADV avy|V amin'|PREP ny|DT otrikaretina|N ka|CONJ afindran'|V ny|DT moka|N .|.
+Raha|C variana|ADJ amin'|PREP ny|DT toe|N @-@|@-@ draharaha|N maneran|V @-@|@-@ tany|N ny|DT ankamaroantsika|V dia|PCL misoko|V mangina|ADV kosa|ADV ity|DT aretina|N ity|DT ,|, tsy|NEG hoe|PCL any|ADV amin'|PREP ny|DT tany|N mafana|ADJ -LRB-|-LRB- trôpikaly|ADJ -RRB-|-RRB- ihany|ADV fa|C hatrany|ADV amin'|PREP ny|DT tany|N lavitra|ADJ koa|ADV toa|PREP an'|PREP i|DT Italy|N .|.
+Ao|ADV Malezia|N fotsiny|ADV tamin'|PREP ny|DT taona|N 2008|N dia|PCL eo|ADV ho|PREP eo|ADV amin'|PREP ny|DT 3|ADJ 700|ADJ ny|DT isan'|N ny|DT marary|V fantatra|V .|.
+Ny|DT tena|N mahagaga|V dia|PCL ny|DT fahanginan'|N ny|DT fampahalalam|N @-@|@-@ baovao|N ary|CONJ tsy|NEG ampy|ADJ ny|DT fampianarana|N omen'|V ireo|DT tompon'|N andraikitra|N ao|ADV amin'|PREP ny|DT fahasalamana|N mikasika|V ny|DT tokony|T hatao|V .|.
+Ny|DT tsikongonia|N no|FOC aretina|N farany|ADV amin'|PREP ireo|DT marobe|ADJ fantatra|V fa|C entin'|V ny|DT moka|N toy|PREP ny|DT tazo|N ,|, ny|DT dengy|N ,|, ny|DT tazovony|N ,|, ny|DT tazo|N japône|ADJ ary|CONJ ny|DT tazon'|N i|DT Nely|N Andrefana|N ,|, ary|CONJ mahafaty|V olona|N maherin'|ADJ ny|DT 1|ADJ 000|ADJ 000|ADJ manerana|V ny|DT tany|N .|.
+Mitanisa|V ireo|DT hetsika|N mafana|ADJ mikasika|V ny|DT dengy|N any|ADV Malezia|N i|DT Elizabeth|N Wong|N .|.
+Nanangona|V vaovao|N mikasika|V ny|DT dengy|N sy|CONJ ny|DT tsikongonia|N i|DT Daddy|N @-@|@-@ O|N avy|V amin'|PREP ny|DT loharanom|N @-@|@-@ baovao|ADJ maro|ADJ samihafa|ADJ :|:
+Nanakiana|V ny|DT fahanginan'|N ny|DT Ministeran'|N ny|N Fahasalamana|N nanoloana|V ny|DT valan'|N aretina|N dengy|N i|DT Lim|N Kit|N Siang|N tamin'|PREP ny|DT taon|N @-@|@-@ dasa|ADJ .|.
+“|" Nokianina|V ny|DT tsy|NEG fahafantaran'|N ny|DT olona|N ny|DT fahadiovana|N manoloana|V ny|DT valan'|N aretina|N ”|" :|:
+“|" Vao|ADV mainka|ADV niharatsy|V ny|DT toe|N @-@|@-@ draharaha|N manoloana|V ny|DT tsy|NEG fahampian'|N ny|DT fanentanana|N ny|DT vahoaka|N Maleziana|ADJ mikasika|V ny|DT fahadiovan'|N -LRB-|-LRB- ny|DT manodidina|V -RRB-|-RRB- .|.
+Ny|DT fotaka|N sy|CONJ ny|DT fako|N dia|PCL tsy|NEG vitan'|V ny|DT hoe|PCL mandoto|V ny|DT fantsona|N ,|, ny|DT lakandrano|N ary|CONJ ny|DT renirano|N ihany|ADV ,|, fa|C manentsina|V azy|PRO ireo|DT koa|ADV .|.
+Ny|DT rano|N miandrona|V no|FOC tena|ADV toerana|N fanatodizan'|N ny|DT moka|N sy|CONJ itomboan'|V ny|DT moka|N Aedes|N .|.
+“|" Raha|C mbola|ADV tsy|NEG mahafantatra|V ny|DT fahadiovan'|N ny|DT tontolo|ADJ iainana|V ny|DT olona|N dia|PCL tsy|NEG mahagaga|V raha|C tsy|NEG mitsahatra|V mitombo|V ny|DT isan'|N ny|DT mararin'|V ny|DT dengy|N ,|, manaitra|V ny|DT fanjakana|N maleziana|ADJ ”|"
+Manaiky|V i|DT Palmdoc|N fa|C “|" tsy|NEG tena|ADV ady|N ”|" ity|DT fanentanana|N hiady|V amin'|PREP ny|DT dengy|N ity|DT :|:
+“|" Efa|ADV an|PREP @-@|@-@ taonany|N maro|ADJ no|FOC nisian'|V ny|DT dengy|N teto|ADV amin'|PREP ny|DT firenentsika|N .|.
+Ankehitriny|ADV dia|PCL miparitaka|V koa|ADV ny|DT tsikongonia|N izay|C mbola|ADV afindran'|V ny|DT moka|N Aedes|N hatrany|ADV .|.
+Efa|ADV nandre|V sy|CONJ namaky|V ny|DT tabataba|N manodidina|V azy|PRO ity|DT isika|PRO taloha|ADV ka|CONJ tsy|NEG mahagaga|V ny|DT mamaky|V ankehitriny|ADV fa|C namoaka|V fanambarana|N mikasika|V ny|DT ”|" ady|N amin'|PREP ny|DT dengy|N ”|" indray|ADV ny|DT Minisiteran'|N ny|N Fahasalamana|N .|.
+Tsy|NEG vahaolana|N maharitra|V ny|DT famendrahana|N fanafody|N mamono|V moka|N izay|C tsy|NEG mahafaty|V afa|T @-@|@-@ tsy|NEG ny|DT moka|N lehibe|ADJ ihany|ADV ,|, fa|C ny|DT tena|N olana|N indrindra|ADV ary|CONJ fantatry|V ny|DT manampahefana|V izany|PRO dia|PCL ny|DT fahabetsahan'|N ny|DT rano|N miandrona|V izay|C toerana|N fanatodizan'|N ny|DT moka|N .|.
+“|" Mandra|V @-@|@-@ pahatonga|N saina|N ny|DT tsirairay|ADV dia|PCL manaiky|V aho|PRO fa|C marina|ADJ ny|DT tenin'|N i|DT LKS|N ary|CONJ izao|DT atao|V izao|DT dia|PCL asa|N ambava|ADJ fotsiny|ADV ihany|ADV mba|C handrenesana|V azy|PRO ”|"
+Famendrahana|N fanafody|N any|ADV ambanivohitra|N Maleziana|ADJ .|.
+Avy|V amin'|PREP ny|DT bolongana|N As|N normal|N as|N I|N can|N be|N .|.
+Mihevitra|V i|DT M.|N Bakri|N Musa|N fa|C ireo|DT injeniera|N tsy|NEG mpiasam|N @-@|@-@ panjakana|N dia|PCL tokony|T hanampy|V amin'|PREP ity|DT fanentanana|N amin'|PREP ny|DT ady|N atao|V amin'|PREP ny|DT dengy|N ity|DT :|:
+“|" Tokony|T hampiditra|V injeniera|N tsy|NEG miankina|V amin'|PREP ny|DT fanjakana|N isika|PRO any|ADV amin'|PREP ny|DT vondrom|N @-@|@-@ paritra|N itsinjaram|V @-@|@-@ pahefana|N sy|CONJ any|ADV amin'|PREP ny|DT Ministeran'|N ny|N Asa|N ,|, ary|CONJ izany|PRO dia|PCL ankoatra|PREP ny|DT mpitsabo|N any|ADV amin'|PREP ny|DT toeram|N @-@|@-@ pitsaboana|N sy|CONJ any|ADV amin'|PREP ny|DT Ministeran'|N ny|N Fahasalamana|N .|.
+Raha|C mivoaka|V ny|DT biraony|N hary|N fomba|N ireo|DT injeniera|N ireo|DT dia|PCL hahita|V ny|DT fantsona|N tsentsina|ADJ ,|, ny|DT ranom|N @-@|@-@ potaka|N ,|, ny|DT lavadavaka|N feno|ADJ bozaka|N ary|CONJ ny|DT ahi|N @-@|@-@ dratsy|ADJ .|.
+Raha|C tena|ADV mandinika|V sy|CONJ mijery|V akaiky|ADV eny|ADV an|PREP @-@|@-@ toerana|N ireo|DT manam|V @-@|@-@ pahefana|N ireo|DT dia|PCL hahita|V ny|DT paradisan'|N ny|DT atody|N moka|N any|ADV anaty|PREP rano|N miandrona|V ”|"
+Mandrisika|V ny|DT olom|N @-@|@-@ pirenena|N i|DT Ji|N Keon|N ao|ADV amin'|PREP ny|DT bilaoginy|N ny|DT amin'|PREP ny|DT andraikiny|N amin'|PREP ny|DT fanampiana|N amin'|PREP ny|DT ady|N atao|V amin'|PREP ny|DT fiparitahan'|N ny|DT dengy|N :|:
+Voalaza|V fa|C tsy|NEG avelan'|V ny|DT mponina|N mamendraka|V fanafody|N famonoana|N moka|N eny|ADV amin'|PREP ny|DT manodididina|V azy|PRO ireo|DT ny|DT tompon'|N andraikitra|N .|.
+Na|CONJ izany|PRO aza|CONJ ,|, tsy|NEG nisy|V famonoana|N moka|N matetika|ADJ tety|ADV amin'|PREP ny|DT toerana|N misy|V anay|PRO tahaka|PREP ny|DT isan|N @-@|@-@ taona|N izay|C hanentanan'|V ny|DT tompon'|N andraikitra|N ny|DT mponina|N ny|DT asam|N @-@|@-@ pamongorana|N ireo|DT moka|N mpitsetsitra|N ra|N ireo|DT ”|"
+“|" Tsy|NEG azo|T ekena|V ny|DT fitomboan'|N ny|DT dengy|N sy|CONJ ny|DT tsikongonia|N mandritra|V ny|DT fotoana|N maharitra|ADJ .|.
+Asa|N haingana|ADJ no|FOC ilaina|V hanajanonana|V ny|DT olana|N ka|CONJ tsy|NEG hivadihany|V ho|PREP zava|N @-@|@-@ doza|N .|.
+“|" Ny|DT misoroka|V no|FOC tsara|ADJ noho|PREP ny|DT mitsabo|V .|.
+Tokony|T ho|T tsapan'|ADJ ny|DT vahoaka|N Maleziana|ADJ ny|DT andraikiny|N amin'|PREP ny|DT famongorana|N ity|DT fahavoazana|N ity|DT .|.
+Aoka|ADJ tsy|NEG avelantsika|V hihen|V @-@|@-@ danja|N noho|PREP ny|DT moka|N ny|DT famokarantsika|N sy|CONJ ny|DT fahavononantsika|N indrindra|ADJ amin'|PREP izao|DT fotoan|N @-@|@-@ tsarotra|N izao|DT izay|C ilan'|V ny|DT firenena|N antsika|PRO hanao|V ezaka|N isam|N @-@|@-@ batan'|N olona|N mba|C hamelomana|V indray|ADV ny|DT lafiny|N ekônômika|ADJ ”|"
+Sary|N avy|V amin'|PREP ny|DT Flickr|N @-@|@-@ n'|PREP i|DT Pedro|N Trindade|N ny|DT eo|ADV amin'|PREP ny|DT voalohany|ADJ io|DT
+Ejipta|N @:|: Gidragidra|N niseho|V na|CONJ tanaty|N na|CONJ ivelan'|PREP ny|DT efitra|N itsarana|V an'|PREP i|DT Mubarak|N
+Fitantarana|N manokana|V mikasika|V ny|DT Revolisiona|N Ejipta|N taona|N 2011|N ity|DT lahatsoratra|N ity|DT .|.
+Notontosaina|V omaly|ADV ny|DT fitsarana|N ny|DT filoha|N Ejipsiana|ADJ voaongana|V Hosni|N Mubarak|N noho|PREP ny|DT famonoana|N nataony|V tamin'|PREP ireo|DT mpanao|N fihetsiketsehana|N nandritra|PREP ny|DT revolisiona|N Ejipsiana|ADJ .|.
+Ity|PRO no|FOC andro|N fahatelo|ADJ izay|C nakana|V ambavany|N azy|PRO ary|CONJ naharitra|V 10|ADJ ora|N izany|PRO ,|, voatatitra|V fa|C nahitana|V gidragidra|N tao|ADV anatiny|PREP -LRB-|-LRB- izay|C tsy|NEG takatry|V ny|DT fakan|N @-@|@-@ tsary|N -RRB-|-RRB- sy|CONJ ivelan'|PREP ny|DT fitsarana|N ,|, raha|C nifanandrina|V tamin'|PREP ny|DT mpanohana|N an'|PREP i|DT Mubarak|N ny|DT fianakavian'|N ireo|DT martiora|N .|.
+Ka|CONJ nahemotra|V ny|DT ampitso|N indray|ADV ny|DT fitsarana|N .|.
+Mpisiokantserasera|N marobe|ADJ no|FOC teo|ADV ivelan'|PREP ny|DT fitsarana|N tao|ADV Kairo|N ka|CONJ nitatitra|V izay|C zava|N @-@|@-@ nitranga|V tao|ADV .|.
+Mubarak|N ,|, 83|ADJ taona|N ,|, dia|PCL tsaraina|V miaraka|V amin'|PREP ny|DT zanany|N lahy|ADJ roa|ADJ ,|, Alaa|N sy|CONJ Gamal|N ,|, mbamin'|N ny|DT minisitry|N ny|DT atitany|N Habib|N Al|N Adly|N izay|C voampanga|V ho|PREP namono|V ny|DT mpanao|N fihetsiketsehana|N 850|ADJ maty|ADJ nandritra|PREP ny|DT fitroaran'|N ny|DT Ejipsiana|ADJ nanomboka|V ny|DT 25|ADJ Janoary|N ary|CONJ naharitra|V 18|ADJ andro|N .|.
+Voahelingelin'|V ny|DT fomba|N mahery|ADJ vaika|ADV nataon'|V ny|DT polisy|N tamin'|PREP ny|DT fianakavian'|N ny|DT maritiora|N ny|DT mpisiokantsera|N nijoro|V teo|ADV ivelan'|PREP ny|DT fitsarana|N .|.
+Nizara|V tamintsika|PREP ity|DT saripika|N ahitana|V ny|DT rain'|N ilay|DT maritiora|N notaritarihan'|V ny|DT mpitandro|N ny|DT filaminana|N havoaka|V ivelan'|PREP ny|DT fitsarana|N ity|DT i|DT Ali|N Hisham|N .|.
+@Ali_Hisham|N :|: Notaritarihan'|V ny|DT mpitandro|N ny|DT filaminana|N hivoaka|V ny|DT efi|N @-@|@-@ pitsarana|N ny|DT rain'|N ilay|DT maritiora|N Mohammed|N Suleiman|N
+Nahita|V ny|DT zava|N @-@|@-@ nitranga|V ny|DT mpanao|N gazety|N mpaka|N sary|N Farah|N Saafan|N ary|CONJ nisiokantsera|V @:|:
+@FarahSaafan|N :|: Raha|C nanangom|V @-@|@-@ baovao|N avy|V tamin'|PREP ny|DT #MubarakTrial|N dia|PCL nisiokantsera|V momba|V ilay|DT lehilahy|N lehibe|ADJ notaritarihana|V tamin'|PREP ny|DT tany|N sy|CONJ nokapohina|V tamin'|PREP ny|DT kibay|N http://bit.ly/oBPjtd|N io|DT izy|DT !|.
+Tsy|NEG sary|N nalaiko|V
+Taorian'|PREP ny|DT fahitana|N izany|DT gidraka|N izany|DT dia|PCL manontany|V i|DT Farah|N @:|:
+@FarahSaafan|N :|: Misy|V afa|T @-@|@-@ milaza|V amiko|PREP ny|DT toerana|N ahafahana|V mividy|V satroby|N ve|C ?|.
+Tsy|NEG ilay|DT ho|PREP an'|PREP ny|DT mpitondra|N môtô|N fa|C fitondra|N miasa|V na|CONJ ireny|DT anaovan'|V ny|DT mpanao|N gazety|N ireny|DT !|.
+Ary|CONJ nanolo|V @-@|@-@ kevitra|N i|DT Ahmed|N Al|N Ish|N @:|:
+Tsy|NEG misolotena|V ny|DT vahoaka|N ny|DT mpampanoa|N lalàna|N .|.
+Mankaloiloy|V sy|CONJ mahakivy|V ny|DT toe|N @-@|@-@ draharaha|N
+Tonia|N sy|CONJ mpanolotra|N Yosri|N Fouda|N nanesoeso|V ihany|ADV koa|ADV -LRB-|-LRB- Ar|N -RRB-|-RRB- :|:
+@YosriFouda|N
+@YosriFouda|N :|: Amin'|PREP ny|DT fitsarana|N manaraka|V dia|PCL mety|ADJ ho|PREP ny|DT Kianja|N Tahrir|N no|FOC niantoraka|V tany|ADV amin'|PREP ny|DT Anjerimanontolo|N Amerikana|N ary|CONJ namono|V an'|PREP i|DT Mubarak|N sy|CONJ an'|PREP i|DT Adly|N sy|CONJ ny|DT mpitandro|N ny|DT filaminana|N 800|ADJ miaraka|V aminy|PREP
+Namaly|V i|DT Heba|N Farooq|N @:|:
+Madagasikara|N @:|: Tsiahy|N an'|PREP i|DT Rado|N ,|, ilay|DT poeta|N manandaza|V
+Miray|V feo|N amin'|PREP ny|DT fahatsiahivana|N an'|PREP i|DT Rado|N poeta|N Malagasy|ADJ malaza|ADJ ny|DT tontolom|ADJ @-@|@-@ bolongana|N Malagasy|ADJ .|.
+Nanoratra|V ny|DT antsipirian'|PREP ny|DT tantaram|N @-@|@-@ piainany|N i|DT Jentilisa|N :|:
+“|" Zanaka|N mpitandrina|N ny|DT tenany|N ,|, teraka|ADJ tamin'|PREP ny|DT 1|ADJ oktobra|N 1923|N -LRB-|-LRB- tapabolana|N sisa|N manko|PCL -RRB-|-RRB- ary|CONJ Ankadivato|N ilay|DT fonenana|N nahalehibe|V azy|PRO .|.
+Notezaina|V tanatin'|N ny|DT fitiavana|N an'|PREP Andriamanitra|N sy|CONJ ny|DT tanindrazana|N tahaka|PREP ireo|DT hafa|ADJ novolavolaina|V tanaty|N lasitra|N protestanta|ADJ nandritra|V ny|DT fanjanahantany|N ”|"
+Avy|V amin'|PREP ny|DT lafin|N @-@|@-@ drainy|N dia|PCL taranaka|N fahadimin'|N ny|DT fianakaviana|N ivoahana|V mpitandrina|N protestanta|ADJ hatrany|ADV izy|PRO ,|, ary|CONJ araka|PREP ny|DT nolazain'|V i|DT tebokaefatra|N kosa|ADV raha|C amin'|PREP ny|DT lafin|N @-@|@-@ dreny|N dia|PCL avy|V any|ADV Amboanana|N
+“|" …|... ilay|DT vohitra|N kely|ADJ ao|ADV atsimon'|N Arivonimamo|N ,|, izay|C nisehoan'|V ireo|DT Menalamba|N sahy|ADJ nanohitra|V voalohany|ADV indrindra|ADV ny|DT Fanjanahantany|N teto|ADV Madagasikara|N .|.
+Araka|PREP izany|PRO koa|ADV dia|PCL mba|C nandova|V ny|DT ran'|N ireo|DT tia|V tanindrazana|N tsy|NEG nanaiky|V hozogain'|V ny|DT vahiny|N .|.
+”|"
+Tahaka|PREP ny|DT tanora|ADJ protestanta|N maro|ADJ tamin'|PREP izany|DT fotoana|N izany|DT ,|, dia|PCL mpikambana|N tao|ADV amin'|PREP ny|DT fikambanana|N Skotisma|N ihany|ADV koa|ADV izy|PRO ,|, ary|CONJ nohamafisin'|V ny|DT rainy|N tamin'|PREP ny|DT alalan'|N ny|DT fitaizan'|N ny|DT takariva|N amorom|PREP @-@|@-@ patana|N nampitiavana|V ny|DT teny|N sy|CONJ ny|DT ohabolana|N -LRB-|-LRB- kolontsaina|N sy|CONJ zavakanto|N -RRB-|-RRB- malagasy|ADJ ho|PREP an'|PREP ny|DT zanany|N izany|DT .|.
+Nianatra|V tamin'|PREP ny|N sekoly|N protestanta|ADJ samihafa|ADJ tao|ADV an|PREP @-@|@-@ drenivohitra|N izy|PRO ary|CONJ nanovo|V fahalalana|N tany|ADV Strasbourg|N ,|, France|N handalina|V momba|V ny|DT fanaovan|N @-@|@-@ gazety|N .|.
+Mitandro|V ny|DT fahaleovantenany|N izy|PRO ary|CONJ na|CONJ dia|CONJ tsara|ADJ karama|N tamina|V trano|N fiantohana|N Preservatrice|N tao|ADV Antananarivo|N aza|CONJ izy|PRO dia|PCL niala|V ka|CONJ naleony|V nanangana|V ny|DT gazetiny|N “|" hehy|N ”|" niaraka|V tamin'|PREP ny|DT rahalahiny|N Celestin|N .|.
+Nianatra|V tao|ADV amin'|PREP ny|DT Minisiteran'|N ny|N kolontsaina|N izy|PRO taorian'|PREP izany|PRO .|.
+Nanana|V talenta|N maro|ADJ izy|PRO ka|CONJ nampiasa|V ny|DT tanany|N ho|PREP amin'|PREP ny|DT hosotra|N sy|CONJ ny|DT sokitra|N ary|CONJ ny|DT paika|N .|.
+Namoron|V @-@|@-@ kiram|N @-@|@-@ pivavahana|N ihany|ADV izy|PRO ho|PREP fanehoany|N ny|DT fijoroana|N maha|V @-@|@-@ Kristiana|N azy|PRO .|.
+Fa|CONJ ny|DT tena|N ahafantarana|V azy|PRO kosa|ADV dia|PCL ny|DT fanoratana|N tononkalo|N izay|C tsy|NEG nitsaharany|V mihitsy|V raha|C tsy|NEG efa|ADV tsy|NEG manam|V @-@|@-@ pahafahana|N hanao|V izany|PRO intsony|ADV .|.
+Namoaka|V bokin|N @-@|@-@ tonokalo|N folo|ADJ izy|PRO ka|CONJ anisan'|V izany|PRO ny|DT Dinitra|N -LRB-|-LRB- 1973|N -RRB-|-RRB- ,|, Ando|N -LRB-|-LRB- 1977|N -RRB-|-RRB- ,|, Zo|N -LRB-|-LRB- 1989|N -RRB-|-RRB- ,|, Sedra|N -LRB-|-LRB- 1993|N -RRB-|-RRB- ,|, Ny|N teny|N Malagasy|N -LRB-|-LRB- 1994|N -RRB-|-RRB- ,|, tsy|N maintsy|N mipoaka|N ny|N sarom|N @-@|@-@ bilany|N -LRB-|-LRB- 2002|N -RRB-|-RRB- ,|, ny|N Voninkazo|N adaladala|N -LRB-|-LRB- 2003|N -RRB-|-RRB- ary|CONJ ny|N fiteny|N roa|N -LRB-|-LRB- 2008|N -RRB-|-RRB- .|.
+Maro|ADJ amin'|PREP ny|DT tononkalony|N no|FOC navadiky|V ny|DT mpanakanto|N Malagasy|ADJ maro|ADJ malaza|ADJ ho|PREP hira|N .|.
+Ary|CONJ tsy|NEG maintsy|ADV nianarana|V tany|ADV amin'|PREP ny|DT sekoly|N ambony|ADV ny|DT Dinitra|N .|.
+Namoaka|V iray|ADJ tamin'|PREP ny|DT tononkalony|N izany|DT nasian'|V ny|DT mpanakanto|N feony|N i|DT Vola|N .|.
+Tia|V ny|DT manjono|V sy|CONJ ny|DT misangy|V amin|PREP @-@|@-@ jafikeliny|N izy|PRO .|.
+Ary|CONJ manana|V ny|DT mari|N @-@|@-@ boninahitra|N Malagasy|ADJ -LRB-|-LRB- rehetra|ADJ -RRB-|-RRB- izy|PRO .|.
+Mbola|ADV manoatra|V noho|PREP izany|PRO ihany|ADV koa|ADV dia|PCL mpandala|N ny|DT teny|N malagasy|ADJ izy|PRO no|FOC manohana|V ihany|ADV koa|ADV ny|DT “|" Fanagasiana|N “|" ,|, na|CONJ ny|DT fampiasana|N ny|DT teny|N Malagasy|ADJ hampianarana|V fa|C tsy|NEG ny|DT teny|N frantsay|ADJ .|.
+Nandamoka|V ny|DT Fanagasiana|N noho|PREP ny|DT kilalao|N maloton'|ADJ ny|DT mpanao|N politika|N indrindra|ADV indrindra|ADV amin'|PREP ny|DT filalaovana|N ny|DT mpianatra|N .|.
+Namoaka|V ny|DT kabarin'|N i|DT Rado|N iray|ADJ manontolo|V tao|ADV amin'|PREP ny|DT Akademia|N Malagasy|N tao|ADV Antananarivo|N Rabelazao|N ,|, izay|C nanazavan'|V i|DT Rado|N hoe|PCL nahoana|V moa|PCL ny|DT teny|N malagasy|ADJ fa|C tsy|NEG ny|DT teny|N malagasy|ADJ mifangaro|V teny|N vahiny|ADV no|FOC mahomby|V indrindra|ADV amin'|PREP ny|DT fampitan|N @-@|@-@ dresaka|N sy|CONJ ahazoana|V ny|DT fanohanan'|N ny|DT Malagasy|N ny|DT fony|N .|.
+Ny|DT enti|V @-@|@-@ manentana|V ny|DT fo|N kosa|ADV anefa|ADV ,|, dia|PCL ny|DT Teny|N ihany|ADV .|.
+Nampitain|V @-@|@-@ dRabelazao|N ny|DT ohatra|N mahatsikaiky|V tamin'|PREP ity|DT tantara|N ity|DT :|:
+“|" Tsaroako|V tsara|ADV ,|, fony|N vao|ADV azo|V ny|DT Fahaleovantena|N ,|, ka|CONJ nentanina|V tamin'|PREP ilay|DT fambolem|N @-@|@-@ bary|N “|" en|PREP ligne|N ”|" ny|DT Tantsaha|N sy|CONJ mpamboly|N vary|N .|.
