@@ -217,10 +217,10 @@ object Train {
       val inputTagDictEntries = binaryExpandedTagDict.setIterator.ungroup.toSet
       val outputTagDictEntries = taggerOutput.flatten.toSet
       val goldTagDictEntries = labeledTestData.flatten.toSet
-      println("input tag dict precision  = %.2f (%d/%d)".format((inputTagDictEntries & goldTagDictEntries).size.toDouble * 100 / inputTagDictEntries.size), (inputTagDictEntries & goldTagDictEntries).size, inputTagDictEntries.size)
-      println("input tag dict recall     = %.2f (%d/%d)".format((inputTagDictEntries & goldTagDictEntries).size.toDouble * 100 / goldTagDictEntries.size), (inputTagDictEntries & goldTagDictEntries).size, goldTagDictEntries.size)
-      println("output tag dict precision = %.2f (%d/%d)".format((outputTagDictEntries & goldTagDictEntries).size.toDouble * 100 / outputTagDictEntries.size), (outputTagDictEntries & goldTagDictEntries).size, outputTagDictEntries.size)
-      println("output tag dict recall    = %.2f (%d/%d)".format((outputTagDictEntries & goldTagDictEntries).size.toDouble * 100 / goldTagDictEntries.size), (outputTagDictEntries & goldTagDictEntries).size, goldTagDictEntries.size)
+      println("input tag dict precision  = %.2f (%d/%d)".format((inputTagDictEntries & goldTagDictEntries).size.toDouble * 100 / inputTagDictEntries.size, (inputTagDictEntries & goldTagDictEntries).size, inputTagDictEntries.size))
+      println("input tag dict recall     = %.2f (%d/%d)".format((inputTagDictEntries & goldTagDictEntries).size.toDouble * 100 / goldTagDictEntries.size, (inputTagDictEntries & goldTagDictEntries).size, goldTagDictEntries.size))
+      println("output tag dict precision = %.2f (%d/%d)".format((outputTagDictEntries & goldTagDictEntries).size.toDouble * 100 / outputTagDictEntries.size, (outputTagDictEntries & goldTagDictEntries).size, outputTagDictEntries.size))
+      println("output tag dict recall    = %.2f (%d/%d)".format((outputTagDictEntries & goldTagDictEntries).size.toDouble * 100 / goldTagDictEntries.size, (outputTagDictEntries & goldTagDictEntries).size, goldTagDictEntries.size))
 
       val evaluator = new TaggerEvaluator[String, String]()
       val results = evaluator.evaluate(taggerOutput, labeledTestData, initialTagDict)
@@ -358,57 +358,4 @@ object Train {
     trainer.trainFromInitialHmm(rawCorpus, initialHmm, binaryTagDict, priorTransitionCounts, priorEmissionCounts)
   }
 
-}
-
-object TrainBest {
-
-  def main(args: Array[String]) {
-    //Logger.getRootLogger.setLevel(Level.DEBUG)
-    //Logger.getLogger("dhg.nlp.tag.hmm.support.EstimatedRawCountUnsupervisedEmissionDistFactory").setLevel(Level.INFO)
-
-    val Array(langId) = args
-
-    //    val trainedModel =
-    //      langId match {
-    //        case "ptb" | "eng" =>
-    //          PtdbsRun.run(
-    //            "ptb",
-    //            20,
-    //            true,
-    //            "wiki",
-    //            "data/prepared/pos/ptb/raw/raw-fold-01.txt",
-    //            500,
-    //            Some(s"data/prepared/pos/ptb/train/tagdict-ann2-human-lc8.txt"),
-    //            Some(s"data/prepared/pos/ptb/train/sentences-ann2-human-lc8.txt"),
-    //            s"data/prepared/pos/ptb/eval/dev.txt",
-    //            Set(3))
-    //
-    //        case "kin" =>
-    //          PtdbsRun.run(
-    //            "kin",
-    //            1,
-    //            true,
-    //            "muri",
-    //            "data/prepared/pos/kin/raw/raw-fold-01.txt",
-    //            500,
-    //            Some(s"data/prepared/pos/kin/train/tagdict-ann1-human-lc8.txt"),
-    //            Some(s"data/prepared/pos/kin/train/sentences-ann1-human-lc8.txt"),
-    //            s"data/prepared/pos/kin/eval/dev.txt",
-    //            Set(3))
-    //
-    //        case "mlg" =>
-    //          PtdbsRun.run(
-    //            "mlg",
-    //            1,
-    //            true,
-    //            "muri",
-    //            "data/prepared/pos/mlg/raw/raw-fold-01.txt",
-    //            500,
-    //            Some(s"data/prepared/pos/mlg/train/tagdict-ann2-human-lc8.txt"),
-    //            Some(s"data/prepared/pos/mlg/train/sentences-ann2-human-lc8.txt"),
-    //            s"data/prepared/pos/mlg/eval/dev.txt",
-    //            Set(3))
-    //      }
-
-  }
 }
