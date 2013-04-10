@@ -68,8 +68,8 @@ The directory at `FOMA_HOME` should contain the `flookup` executable:
 
 Foma can be tested using an FST:
 
-    $ echo "unhappily" | $FOMA_HOME/flookup data/muri-data/eng/morph/FST/eng-20.fst
-    unhappily   +UN+happy+ADV+LY
+    $ echo "mananika" | $FOMA_HOME/flookup data/mlg/fst/mlg-20.fst
+    mananika    +V+PRES+anika
 
 
 ## Running the system
