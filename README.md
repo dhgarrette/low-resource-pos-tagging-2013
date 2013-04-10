@@ -34,7 +34,7 @@ This code is frozen as of the version used to obtain the results in the paper. I
 
 ### Getting the code
 
-Clone the three necessary projects:
+Clone the project:
 
     $ git clone https://github.com/dhgarrette/low-resource-pos-tagging-2013.git
     
