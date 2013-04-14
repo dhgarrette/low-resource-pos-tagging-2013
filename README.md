@@ -1,5 +1,6 @@
 [Dan Garrette]: http://cs.utexas.edu/~dhg
 [Jason Baldridge]: http://www.jasonbaldridge.com
+[Jason Mielens]: http://jason.mielens.com/
 
 
 # Low-Resource POS-Tagging: 2013
@@ -15,7 +16,7 @@ This is the code used in the papers
 > In Proceedings of NAACL 2013  
 
 > [Real-World Semi-Supervised Learning of POS-Taggers for Low-Resource Languages](http://www.cs.utexas.edu/users/dhg/papers/garrette_mielens_baldridge_acl2013.pdf)  
-> [Dan Garrette], Jason Mielens, and [Jason Baldridge]  
+> [Dan Garrette], [Jason Mielens], and [Jason Baldridge]  
 > In Proceedings of ACL 2013  
 
 
