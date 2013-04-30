@@ -3,8 +3,8 @@ package dhg.nlp.freq
 import dhg.util.CollectionUtil._
 import scalaz._
 import scalaz.Scalaz._
-import breeze.stats.distributions.RandBasis
-import breeze.stats.distributions.Rand
+import dhg.util.math.RandBasis
+import dhg.util.math.Rand
 
 /**
  * This class stores a map of items and their counts along with a "default"

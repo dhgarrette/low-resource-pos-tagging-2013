@@ -3,8 +3,8 @@ package dhg.nlp.freq
 import dhg.util.CollectionUtil._
 import scalaz._
 import Scalaz._
-import breeze.stats.distributions.RandBasis
-import breeze.stats.distributions.Rand
+import dhg.util.math.RandBasis
+import dhg.util.math.Rand
 
 /**
  * Utilities for frequency distributions: functions to probabilities: P(B).

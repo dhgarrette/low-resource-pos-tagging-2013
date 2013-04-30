@@ -5,8 +5,8 @@ import scala.collection.breakOut
 import scala.util.Random
 import dhg.util.CollectionUtil._
 import scalaz.Scalaz._
-import breeze.stats.distributions.RandBasis
-import breeze.stats.distributions.Rand
+import dhg.util.math.RandBasis
+import dhg.util.math.Rand
 
 /**
  * A builder for conditional frequency distributions.  Stores counts (in a mutable

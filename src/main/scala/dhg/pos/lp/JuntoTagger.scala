@@ -120,6 +120,7 @@ class JuntoTagger[Sym, Tag](
       resultList = result)
 
     val outputFile = mktemp("output_file")
+    println(outputFile)
     GraphIo.saveEstimatedScores(graph, outputFile.path)
     val TagRe = """TAG_(.+)""".r
     val TokenRe = """TOKEN_(.+)_(\d+)_(\d+)""".r
@@ -133,7 +134,7 @@ class JuntoTagger[Sym, Tag](
       }
 
     val taggedRaw = taggedTokens.groupBy(_._1._2)
-    outputFile.delete()
+    //outputFile.delete()
 
     verify(
       rawCorpus.zipWithIndex.map {
