@@ -138,7 +138,8 @@ object Train {
     val useModelMin = options.get("-useModelMin").map { case Vector() => true; case Vector(UBoolean(b)) => b }.getOrElse(true)
     val evaluationDataFiles = options.getOrElse("-evaluationDataFile", Vector())
     val outputModelFile = options.get("-outputModelFile").map { case Vector(file) => file }
-    assert(evaluationDataFiles.nonEmpty || outputModelFile.isDefined, "At least one of -evaluationDataFile or -outputModelFile should be defined")
+    assert(typeAnnotationFiles.nonEmpty || tokenAnnotationFiles.nonEmpty, "At least one of -typeAnnotationFile or -tokenAnnotationFile must be defined")
+    assert(evaluationDataFiles.nonEmpty || outputModelFile.isDefined, "At least one of -evaluationDataFile or -outputModelFile must be defined")
 
     //
     // Load the data
