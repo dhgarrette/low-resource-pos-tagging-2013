@@ -13,7 +13,7 @@ trait SimpleFst[Sym, MorphAnalysis] {
 }
 
 case class FomaSimpleFst(fstFile: String) extends SimpleFst[String, Vector[String]] {
-  val flookup = Subprocess(pathjoin(sys.env("HOME"), "bin/foma-fst/flookup")).args(fstFile)
+  val flookup = Subprocess(pathjoin(sys.env("FOMA_HOME"), "flookup")).args(fstFile)
 
   override def analyze(symbols: Set[String]): Map[String, Vector[Vector[String]]] = {
     symbols.grouped(1000).flatMap { subset =>
@@ -30,7 +30,7 @@ case class FomaSimpleFst(fstFile: String) extends SimpleFst[String, Vector[Strin
 }
 
 case class XfstSimpleFst(fstFile: String) extends SimpleFst[String, Vector[String]] {
-  val lookup = Subprocess(pathjoin(sys.env("HOME"), "bin/xfst/lookup")).args(fstFile)
+  val lookup = Subprocess(pathjoin(sys.env("XFST_HOME"), "lookup")).args(fstFile)
 
   override def analyze(symbols: Set[String]): Map[String, Vector[Vector[String]]] = {
     symbols.grouped(1000).flatMap { subset =>
